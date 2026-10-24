@@ -1,7 +1,10 @@
 # Storage Estimator
 
+## Author
+Ebadullah Shaikh
+
 ## Purpose
-This project converts storage size from gigabytes (GB) to megabytes (MB).
+The purpose of this project is to converts storage size from gigabytes (GB) to megabytes (MB).
 
 ## How to Run
 1. Make sure Python is installed.
@@ -24,6 +27,3 @@ Enter storage size in GB: 10
 Storage size in GB: 10.0
 Storage size in MB: 10240.0
 ```
-
-## Author
-Ebadullah Shaikh
